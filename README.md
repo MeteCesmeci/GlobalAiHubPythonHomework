@@ -1,1 +1,1 @@
-# GlobalAiHubPythonOdevim
+# GlobalAiHubPythonOdevlerim
